@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Portafolio personal de Carlos Ramirez — Mobile & Backend Developer. Tema terminal, bilingue (ES/EN).",
+  "homepage": "https://github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
